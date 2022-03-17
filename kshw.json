@@ -1,7 +1,7 @@
 {
   "signatures": {
-    "30day": 000001,
-    "clientstate_choked_commands": 19760,
+    "30day": 372,
+    "EC602E1B-8F8D-904C-96D4-8193FE933789": 485122271383,
     "clientstate_delta_ticks": 372,
     "set_abs_origin": 1987184
   },
